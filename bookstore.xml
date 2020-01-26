@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- write an xml file to store books with fields like title, price, author, isbn. -->
+<bookstore>
+    <book>
+        <title>Web Technology</title>
+        <price>$100</price>
+        <author>Dipak Thapa Magar</author>
+        <isbn>1234</isbn>
+    </book>
+    <book>
+        <title>Javascript</title>
+        <price>$18</price>
+        <author>David Prakash Mukhiya</author>
+        <isbn>1235</isbn>
+    </book>
+    <book>
+        <title>Machine Learning</title>
+        <price>$120</price>
+        <author>Dipen Karki</author>
+        <isbn>1236</isbn>
+    </book>
+</bookstore>
